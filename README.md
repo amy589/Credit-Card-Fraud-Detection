@@ -39,8 +39,10 @@ In this project, machine learning techniques are used to develop models identify
 ### Model Interpretability for Compliance
 - Regulatory requirements necessitate transparency in fraud detection models. Logistic regression was chosen for its simplicity and interpretability.
 ## Recommendations
+### Technical Aspects
 1. Continue leveraging Logistic Regression as the primary detection model due to its high accuracy and business-friendly interpretability.
 2. Implement SMOTE and other balancing techniques in future model iterations to handle class imbalance issues more effectively.
 3. Perform regular hyperparameter tuning to maintain optimal performance and reduce false positives, minimizing operational costs.
-4. Create periodic customer feedback loops to ensure the fraud detection system is aligned with customer expectations and satisfaction.
-5. Develop ongoing compliance documentation to ensure transparency in model decision-making and adherence to regulations.
+### Business Aspects
+1. Create periodic customer feedback loops to ensure the fraud detection system is aligned with customer expectations and satisfaction.
+2. Develop ongoing compliance documentation to ensure transparency in model decision-making and adherence to regulations.
