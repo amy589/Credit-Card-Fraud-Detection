@@ -11,7 +11,6 @@ Insights and rcommendations were provided on the following key areas:
 - Cost reduction due to false positives
 - Customer satisfaction and trust improvement
 - Model interprebility for compliance
-- 
 ## Introduction
 The dataset contains transactions made by credit cards in September by European cardholders, which has 492 frauds out of **284,807 transactions**. This is indicated the **highly imbalance** of the dataset, where frauds ( Class 1) accounts for 0.172% of all transactions. 
 Besides, this only contains numerical variables which are the result of **PCA transformation except Time and Amount variables**, which can be assumed that the data is scaled. However, there is limitation to explain model decisions ot interpret feature importance in business terms.
